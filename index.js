@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["nevertheless","waiting in winter","차가운 비"];
+const statusMessages = ["nevertheless, i'll wait for you","stuck in winter","waiting for you in the 차가운 비"];
 
 
 let currentIndex = 0;
